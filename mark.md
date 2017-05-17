@@ -1,3 +1,29 @@
+###### FED
+
+buffer stream
+
+gulp
+
+
+1.es6 + react +node.js CommonJS 模块系统
+
+
+2.shell终端
+
+
+3.VS code 快捷键
+
+
+4.打包 gulp npm package.json
+
+
+
+es6 bable gulp-babel gulp.dest()
+
+node.js  node.js权威指南  __dirname __pathname
+
+作用域  你不知道的JavaScript
+
 ###### 家居
 
 
