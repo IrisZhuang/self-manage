@@ -4,7 +4,13 @@ buffer stream
 
 gulp
 
+* 手写实现async库的常见方法
+* [generator的实现](https://segmentfault.com/a/1190000003096984)
+* event-loop 
+        [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
+        [explain](http://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
 
+        
 1.es6 + react +node.js CommonJS 模块系统
 
 
